@@ -1,14 +1,23 @@
 body {
-  width: 75%;
-  margin: 0 auto;
-  background-color: #F5F5FF;
+	width: 75%;
+	margin: 0 auto;
+	background-color: #F5F5FF;
 	background-image: url(https://assets.onecompiler.app/434gzgq3g/43cksyabu/wallpaper.png);
-  }
+	}
+
+figure {
+	display: table;
+	width: 0px;
+	}
+
+img, figcaption {
+	display: table-row;
+	}
 
 .gap {
-  margin-top: 1cm;
-  }
+	margin-top: 1cm;
+	}
 
 .gop {
-  margin-bottom: 1cm;
-  }
+	margin-bottom: 1cm;
+	}
