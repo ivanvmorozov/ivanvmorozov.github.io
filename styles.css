@@ -5,15 +5,6 @@ body {
 	background-image: url(https://assets.onecompiler.app/434gzgq3g/43cksyabu/wallpaper.png);
 	}
 
-.img-container {
-	float: left;
-	padding: 5px;
-	}
-
-img, figcaption {
-	display: table-row;
-	}
-
 .gap {
 	margin-top: 1cm;
 	}
